@@ -20,5 +20,5 @@
   roles:
     - role: nycrecords.yum_config_manager
     - role: nycrecords.java
-    - role: ansible-role-elasticsearch
+    - role: nycrecords.elasticsearch
     - role: ansible-role-logstash
